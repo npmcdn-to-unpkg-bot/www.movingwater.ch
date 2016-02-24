@@ -1,0 +1,33 @@
+Title: moving water
+
+----
+
+Author: Jonathan Hess
+
+----
+
+Description: Bewegte Bilder zeigen bewegende Geschichten. Wasser spiegelt, es belebt, es reinigt und es erfrischt. Genau das möchte ich mit meinen Videos weitergeben: Bewegende Momente in bewegten Bildern, die beleben und erfrischen.
+
+----
+
+Keywords: Hochzeitsfilm,Videoproduktion,Webdesign,Webseite,Film,Imagefilm,Bern
+
+----
+
+Copyright: © 2012-(date: Year) moving water
+
+----
+
+Footertext: 
+
+Interessiert?
+
+(link: ueber/angebote text: Angebote class: button) (link: kontakt text: Kontakt class: button)
+
+----
+
+Footerbutton: Kontakt
+
+----
+
+Footerbuttonlink: kontakt

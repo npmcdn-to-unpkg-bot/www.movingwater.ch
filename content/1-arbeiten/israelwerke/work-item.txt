@@ -1,0 +1,53 @@
+Title: Israelwerke
+
+----
+
+Top: 
+
+----
+
+Text: 
+
+----
+
+Video: 
+
+----
+
+Categories: 
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: today
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: 
+
+----
+
+Clienturl: 
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: 
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 

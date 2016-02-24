@@ -1,0 +1,53 @@
+Title: Ich bin ein Fremder.
+
+----
+
+Top: 0
+
+----
+
+Text: 
+
+----
+
+Video: 
+
+----
+
+Categories: Videoproduktion
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2015-12-29
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: SEA - Schweizerische Evangelische Allianz
+
+----
+
+Clienturl: http://www.each.ch
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: http://www.flüchtlingen-helfen.ch
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 

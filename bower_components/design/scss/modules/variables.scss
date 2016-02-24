@@ -1,0 +1,109 @@
+//colors
+$primary-color: #5176B8;
+$dark-primary-color: #D32F2F;
+$light-primary-color: #FFCDD2;
+$accent-color: #448AFF;
+$light-accent-color: #ededed;
+$primary-text: #4A4A4A;
+$secondary-text: #727272;
+$divider-color: #B6B6B6;
+$font-base: 1.1em;
+
+//Grid
+$small: em(480px);
+$medium: em(640px);
+$midlarge: em(860px);
+$large: em(1280px);
+$xlarge: em(1600px);
+
+html, body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  color: $primary-text;
+  font-size: $font-base;
+  
+  h1, h2, h3, h4 {
+    font-weight: 400;
+    font-family: 'Oswald', sans-serif;
+  }
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 2em;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  h3 {
+    margin: 0;
+    padding: 0;
+  }
+  
+  a {
+    font-weight: 600;
+    color: $secondary-text;
+    text-decoration: none;
+    
+    &:hover {
+      color: lighten($secondary-text,20%);
+    }
+  }
+  
+  .button {
+    padding: 8px 20px;
+    background: $primary-color;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 1px;
+    font-size: 14px;
+    margin-bottom: 10px;
+    display: inline-block;
+    
+    &:hover, &.active {
+      background: darken($primary-color,20%);
+    }
+  }
+  
+  // Responsive Video
+  .video-wrapper {
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 56.25%; // For ratio 16:9. 75% if ratio is 4:3
+    position: relative;
+
+    embed,
+    object,
+    iframe {
+      @include position(absolute, 0px null null 0px);
+      @include size(100%);
+    }
+    
+    &.map {
+      padding-bottom: 75%;
+    }
+  }
+  @include media($small) {
+    h1 {
+      font-size: 3em;
+    }
+    .button {
+      font-size: 16px;
+    }
+  }
+}
+
+// Mixins
+@mixin background-opacity($color, $opacity: 0.3) {
+    background: $color; /* The Fallback */
+    background: rgba($color, $opacity);
+}
+
+// Material Design Icons
+@function mdi($name) {
+    @return char(nth($hexes, index($names, $name)));
+}

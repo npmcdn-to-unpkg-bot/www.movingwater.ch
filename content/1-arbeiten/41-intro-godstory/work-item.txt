@@ -1,0 +1,60 @@
+Title: Intro Godstory
+
+----
+
+Text: 
+
+Herbstkonferenz 2012
+
+Intro für die Godstories, die an der Vineyard Herbstkonferenz 2012 im Kursaal, Bern gezeigt wurden.
+
+----
+
+Video: (vm: 59094468)
+
+----
+
+Categories: MotionDesign
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2012-10-06
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: Vineyard Bern
+
+----
+
+Clienturl: http://www.vineyard-bern.ch
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: 
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 
+
+- 
+  relatedpages: godstories
+
+----
+
+Top: 0

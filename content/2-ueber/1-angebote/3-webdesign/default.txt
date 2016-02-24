@@ -1,0 +1,32 @@
+Title: Webdesign
+
+----
+
+Text: 
+
+Für kleine bis mittelgrosse Webauftritte biete ich treffende Lösungen mit persönlichem Service – auch nachdem du die Webseite ins Internet stellst. Falls du noch kein Design hast, setze ich auch dieses gerne in meinem unverkennbaren Stil um. Oder aber ich programmiere, was du mit deinem Grafiker ausgearbeitet hast. Dank CMS erhältst du eine optimale Eigenständigkeit und kannst Inhalte jederzeit selber verwalten und flexibel anpassen. Durch meine Erfahrung mit (link: http://www.getkirby.com text: Kirby popup: yes), (link: http://www.typo3.com text: Typo3 popup: yes) und (link: http://www.wordpress.com text: Wordpress popup: yes) biete ich dir den für dich perfekten Kompromiss zwischen Funktionalität und Handhabung.
+
+Mein Preis richtet sich nach deinen Bedürfnissen und ist fair. Ausserdem garantiere ich dir eine schnelle und gewissenhafte Arbeitsweise, damit deine Webseite rechtzeitig online geht – auch in dringenden Fällen.
+
+(Spalten...)
+
+#### <i class="mdi mdi-account"></i><br />Individuell
+Deine Wünsche und Anforderungen stehen im Zentrum.
+
+++++ 
+
+#### <i class="mdi mdi-responsive"></i><br />Responsive
+
+Das Design der Seite passt sich dem Benutzer an. Egel ob mit Smartphone, Tablet, Laptop oder Desktop-Computer, jeder kommt auf seine Kosten und kann den Inhalt optimal erleben.
+
+++++
+
+#### <i class="mdi mdi-pencil"></i><br />CMS
+
+Für die Inhaltspflege braucht es keine Spezialisten. Jeder kann die Webseite selber und einfach aktuell halten.
+
+(...Spalten)
+
+----
+
+Hidecta: 0

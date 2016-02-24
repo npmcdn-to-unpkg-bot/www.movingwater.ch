@@ -1,0 +1,58 @@
+Title: Musikvideo - Hecht
+
+----
+
+Top: 0
+
+----
+
+Text: moving water unterstützte l'arbre beim Dreh des Musikvideos für (link: http://www.hechtimnetz.ch text: Hecht popup: yes) und war für die Kamera verantwortlich.
+
+----
+
+Video: (yt: 3QHa0HB0JUc)
+
+----
+
+Categories: Videoproduktion
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2015-08-24
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: l'arbre
+
+----
+
+Clienturl: http://www.larbre.cc
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: 
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 
+
+- 
+  relatedpages: musikvideo-jael
+- 
+  relatedpages: videodreh-mit-francine-jordi

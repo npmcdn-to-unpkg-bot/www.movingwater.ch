@@ -1,0 +1,58 @@
+Title: Suppenküche
+
+----
+
+Text: Ein Dienst am Nächsten Projekt der Vineyard Stendal.
+
+----
+
+Video: (vm: 83796531)
+
+----
+
+Categories: Videoproduktion
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2014-01-03
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: Vineyard D.A.CH.
+
+----
+
+Clienturl: http://www.vineyard-dach.net
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: 
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 
+
+- 
+  relatedpages: fluthilfe
+- 
+  relatedpages: deutschkurse
+
+----
+
+Top: 0

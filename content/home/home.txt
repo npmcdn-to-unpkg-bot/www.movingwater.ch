@@ -1,0 +1,70 @@
+Title: Startseite
+
+----
+
+Text: ## Arbeiten
+
+----
+
+Headertext: 
+
+Hallo, ich heisse **Jonathan Hess**.
+
+Ich arbeite als Filmemacher und Webprogrammierer. Wie kann ich behilflich sein?
+
+(link: arbeiten text: Meine Arbeiten class: button) (link: ueber/angebote text: Angebote class: button) (link: kontakt text: Kontakt class: button)
+
+----
+
+Headerbuttons: 
+
+----
+
+Partners: 
+
+- 
+  name: "l'arbre"
+  email: p.arber@larbre.cc
+  web: http://www.larbre.cc
+  image: larbre.png
+  links: |
+    **Philippe Arber**
+    Filmproduktion, Webdesign
+    (email: p.arber@larbre.cc text:<i class="mdi mdi-email"></i>) (link: http://www.larbre.cc text: <i class="mdi mdi-earth"></i> popup: yes) (link: https://www.facebook.com/larbre.cc text: <i class="mdi mdi-facebook-box"></i> popup: yes)
+- 
+  name: Beck Records
+  links: |
+    **Simon Beck**
+    Recording, Soundmix
+    (email: info@beckrecords.ch text:<i class="mdi mdi-email"></i>) (link: http://www.beckrecords.ch text: <i class="mdi mdi-earth"></i> popup: yes) (link: https://www.facebook.com/Beck-Records-157947184218787/ text: <i class="mdi mdi-facebook-box"></i> popup: yes)
+  image: beck_records.jpg
+- 
+  name: Manuel Halter
+  links: |
+    Pianist, Keyboarder, Musikproduzent
+    (email:info@manuelhalter.net text:<i class="mdi mdi-email"></i>) (link: http://www.manuelhalter.net text: <i class="mdi mdi-earth"></i> popup: yes) (link: https://www.facebook.com/manuelhaltermusic text: <i class="mdi mdi-facebook-box"></i> popup: yes)
+  image: manuelhalter.jpg
+- 
+  name: Ruben Ung
+  links: |
+    Fotografie,  Grafik, Musik
+    (email: mail@rubenung.ch text:<i class="mdi mdi-email"></i>) (link: http://www.rubenung.ch text: <i class="mdi mdi-earth"></i> popup: yes) (link: https://www.facebook.com/www.rubenung.ch text: <i class="mdi mdi-facebook-box"></i> popup: yes)
+  image: rubenung.jpg
+- 
+  name: Die Wortfabrik GmbH
+  links: |
+    **Sarah-Maria Graber**
+    Texte, Kommunikation, Stimme
+    (email: info@diewortfabrik.ch text:<i class="mdi mdi-email"></i>) (link: http://www.diewortfabrik.ch text: <i class="mdi mdi-earth"></i> popup: yes) (link: https://www.facebook.com/DieWortfabrik text: <i class="mdi mdi-facebook-box"></i> popup: yes)
+  image: wortfabrik.jpg
+
+----
+
+Partnertitle: Partner
+
+----
+
+Partnertext: 
+
+Zusammen sind wir noch stärker. 
+Um Aussergewöhnliches zu realisieren arbeite ich mit weiteren Leuten zusammen.

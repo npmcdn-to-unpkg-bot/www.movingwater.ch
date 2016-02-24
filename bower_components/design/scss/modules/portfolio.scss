@@ -1,0 +1,193 @@
+.work {
+  .work-item, .grid-sizer {
+    width: 100%;
+  }
+  .work-item {
+    margin-bottom: 2%;
+  }
+  @include media($medium) {
+    .gutter-sizer {
+      width: 2%;
+    }
+    .grid-sizer, .work-item {
+      width: 49%;
+      
+//      &.big {
+//        width: 100%;
+//      }
+    }
+  }
+  @include media($large) {
+    .grid-sizer, .work-item {
+      width: 32%;
+//      &.big {
+//        width: 66%;
+//      }
+    }
+  }
+  @include media($xlarge) {
+    .grid-sizer, .work-item {
+      width: 23.5%;
+//      &.big {
+//        width: 49%;
+//      }      
+    }
+    &.home .work-item {
+      &:nth-child(3), &:nth-child(4) {
+        width: 49%;
+      }
+    }
+  }
+   
+  figure {
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+
+    img {
+      @include transition(transform,5s);
+      width: 100%;
+      display: block;
+    }
+    
+    .title-no-image {
+      position: absolute;
+      top: 50%;
+      width: 100%;
+      @include transform(translateY(-50%));
+      text-align: center;
+      padding: 10px;
+    }
+    
+    figcaption {
+      @include transition(opacity, .35s);
+      opacity: 0;
+      @include background-opacity($primary-color,.9);
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      .title {
+        position: absolute;
+        width:100%;
+        top: 50%;
+        left: 50%;
+        @include transform(translate(-50%,-50%));
+        text-align: center;
+        color: white;
+        
+        h3 {
+          font-size: 1em;
+        }
+        p {
+          margin: 0;
+          font-size: .8em;
+        }
+        .touch {
+          display: none;
+        }
+      }
+      .more-link.no-touch {
+        @include transition(opacity, .35s);
+        z-index: 5;
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        top: 0;
+        left: 0;
+        opacity: 0;
+      }
+    }
+    
+    
+    .no-touch &:hover, &.hover {
+      img {
+        @include transform(scale(1.2));
+      }
+      figcaption {
+        opacity: 1;
+      }
+    }
+  }
+  
+  .touch & figure figcaption .more-link.touch {
+    position: relative;
+    z-index: 10;
+    opacity: 1;
+    border: 1px solid white;
+    margin-bottom: 0;
+    margin-top: 10px;
+    display: inline-block;
+  }
+  .touch & figure figcaption .more-link.no-touch {
+    display: none;
+  }
+}
+
+.header-single {
+  .image-wrapper {
+    img {
+      width: 100%;
+    }
+  }
+}
+.work-single {
+  h1 {
+    text-align: left;
+    border-bottom: 5px solid $primary-color;
+    display: inline;
+    span {
+      font-size: .5em;
+      font-weight: 300;
+      text-transform: none;
+      font-family: 'Open Sans', sans-serif;
+    }
+  }
+  .single-text {
+    margin-top: 30px;
+    @include outer-container(100%);
+    .col-8, .col-4 {
+      @include span-columns(12);
+    }
+    @include media($medium) {
+      .col-8 {
+        @include span-columns(8);
+      }
+      .col-4 {
+        @include span-columns(4);
+      }
+    }
+    
+    .details {
+      margin-top: 1em;
+      p {
+        margin: 0;
+        margin-bottom: .5em;
+      }
+    }
+  }
+  .image {
+    margin-top: 50px;
+    .lightboxset {
+      @include display(flex);
+      @include flex-wrap(wrap);
+      a {
+        width: 33%;
+        @include media($medium) {
+          width: 20%;
+        }
+        @include media($large) {
+          width: 16.667%;
+        }
+        img {
+          width: 100%;
+          padding: 5px;
+        }
+      }
+    }
+  }
+}
+.related {
+  background:$light-accent-color;
+}

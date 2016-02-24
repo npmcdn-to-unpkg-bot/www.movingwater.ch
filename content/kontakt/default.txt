@@ -1,0 +1,31 @@
+Title: Kontakt
+
+----
+
+Text: 
+
+(Spalten...)
+
+<div class="address-logo">
+(image: movingwater_logo_final.png)
+</div>
+Jonathan Hess
+Effingerstrasse 10
+3011 Bern
+
+(email: info@movingwater.ch)
+(tel: +41797552661 text: +41 79 755 26 61)
+
+(link: https://twitter.com/jonathan_hess text: <i class="mdi mdi-twitter"></i> popup: yes class: button) (link: https://www.facebook.com/movingwaterfilms/ text: <i class="mdi mdi-facebook"></i> popup: yes class: button) (link: https://www.instagram.com/movingwater.ch/ text: <i class="mdi mdi-instagram"></i> popup: yes class: button)
+
+++++
+
+<div class="video-wrapper map">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2723.7964254974854!2d7.433614451721954!3d46.9460400412638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478e39bf613a53f7%3A0x30f7464656fbe3b2!2sEffinger+-+Kaffeebar+%26+Coworking+Space!5e0!3m2!1sde!2sch!4v1454070016973" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+
+(...Spalten)
+
+----
+
+Hidecta: 1

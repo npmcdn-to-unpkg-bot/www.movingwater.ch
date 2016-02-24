@@ -1,0 +1,32 @@
+Title: Angebote
+
+----
+
+Text: 
+
+(Spalten...)
+
+### (link: ueber/angebote/videoproduktionen text: Videoproduktionen)
+Filme regen Sinne an, lösen Emotionen aus und schaffen Nähe. Das macht das Video zum kraftvollsten Medium für prägnante Botschaften. Mit Begeisterung über diese Voraussetzungen biete ich für jeden Anlass eingängige Videoproduktionen an, die lange in Erinnerung bleiben.
+
+(link: ueber/angebote/videoproduktionen text: Mehr Infos class: button)
+
+++++
+
+### (link: ueber/angebote/hochzeitsfilm text: Hochzeitsfilm)
+Jede Hochzeit ist unvergesslich und einzigartig – so einzigartig wie die Persönlichkeiten und die Vorlieben des Brautpaares. Ob witzig frech, romantisch verspielt oder klassisch feudal: Meine Hochzeitsvideos sind individuell, prägnant und sagen mehr als Tausend Worte.
+
+(link: ueber/angebote/hochzeitsfilm text: Mehr Infos class: button)
+
+++++
+
+### (link: ueber/angebote/webdesign text: Webdesign)
+Ein überzeugender Webauftritt ist ein einladendes Schaufenster, das deine Anliegen ins richtige Licht setzt. Deshalb werte ich deine bestehende Webseite auf oder ich konzipiere sie von Grund auf: Von der Idee über die Grafik bis zur Programmierung. Meine Leistungen kannst du umfassend oder punktuell in Anspruch nehmen. 
+
+(link: ueber/angebote/webdesign text: Mehr Infos class: button)
+
+(...Spalten)
+
+----
+
+Hidecta: 0

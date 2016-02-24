@@ -1,0 +1,61 @@
+Title: Leiterkonferenz 2012 - Intro
+
+----
+
+Text: 
+
+**Technische Einzelheiten**
+- Erstellt mit Apple Motion 5
+- Publiziert als Generator für Final Cut Pro X
+- Mit Platzhalter für Name / Thema / Foto
+
+----
+
+Video: (vm: 35200007)
+
+----
+
+Categories: MotionDesign
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2012-01-04
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: Vineyard D.A.CH.
+
+----
+
+Clienturl: http://www.vineyard-dach.net
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: 
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 
+
+- 
+  relatedpages: leiterkonferenz-2012-impressionen
+
+----
+
+Top: 0

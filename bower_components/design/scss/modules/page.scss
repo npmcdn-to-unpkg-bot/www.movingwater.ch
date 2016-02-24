@@ -1,0 +1,111 @@
+@include media($medium) {
+  .spacer {
+    height: 130px;
+  }
+}
+section {
+  background-color: lighten($light-accent-color,3%);
+  padding: 40px 20px;
+  @include media($medium) {
+    padding: 60px 10%;
+  }
+  
+  img {
+    width: 100%;
+  }
+  &.dark {
+    background: $light-accent-color;
+  }
+  
+  hr {
+    color: $divider-color;
+    margin: 60px 0;
+  }
+}
+
+// Videoproduktion
+section {
+  .column h4 {
+    border-bottom: 4px solid $primary-color;
+    background: $divider-color;
+    padding: 40px 0;
+    text-align: center;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+    span, i {
+      background: $primary-color;
+      padding: 10px;
+      display: inline-block;
+      border-radius: 50%;
+      margin-bottom: 20px;
+      font-size: 2.5em;
+      color: white;
+    }
+  }
+}
+
+// Kontakt
+.kontakt  {
+  .address-logo {
+    figure img {
+      width: 250px;
+      margin: 0 0 -10px 0;
+      display: block;
+    }
+  }
+  p {
+    margin-left: 41px;
+  }
+}
+
+// Grid
+.columns {
+  @include outer-container(100%);
+  
+  .col-1, .col-2, col-3, .col-4, .col-6, .col-8, .col-9, .col-10, .col-12, &.columns-2 .column, &.columns-3 .column, &.columns-4 .column, &.columns-5 .column, &.columns-6 .column  {
+    @include span-columns(12);
+    margin-top: 30px;
+    &:first-child {
+      margin-top: 0;
+    }
+    @include media($medium) {
+      margin-top: 0;
+    }
+  }
+  @include media($medium) {
+    .col-1 {
+        @include span-columns(1);
+    }
+    .col-2 {
+        @include span-columns(2);
+    }
+    .col-3, &.columns-4 .column {
+        @include span-columns(3);
+    }
+    .col-4, &.columns-3 .column {
+        @include span-columns(4);
+    }
+    .col-6, &.columns-2 .column {
+        @include span-columns(6);
+    }
+    .col-8 {
+        @include span-columns(8);
+    }
+    .col-9 {
+        @include span-columns(9);
+    }
+    .col-10 {
+        @include span-columns(10);
+    }
+    .col-12 {
+        @include span-columns(12);
+    }
+  }
+  hr {
+    color: $divider-color;
+    margin: 0;
+  }
+}

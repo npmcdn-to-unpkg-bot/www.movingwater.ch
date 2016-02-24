@@ -1,0 +1,68 @@
+Title: Leben in Gemeinschaft
+
+----
+
+Text: 
+
+Ein Dokumentarfilm in Zusammenarbeit mit Tamara Rüfenacht.
+
+**Worum geht es?**
+Wir waren im 2013/14 in der Schweiz und in England unterwegs, um in 9 verschiedenen christlichen Gemeinschaften Einblicke und Statements einzufangen.
+Der Film motiviert und fordert heraus, sich selber zum Thema Gemeinschaft Gedanken zu machen.
+
+**Absicht**
+Menschen sollen durch den Film herausgefordert und ermutigt werden, sich praktisch auf den Weg, hin in die Gemeinschaft zu machen. Ängste und Vorurteile sollen abgebaut und realistische Gefahren und Herausforderungen beleuchtet werden.
+
+**Webseite**
+Zudem programmierte movingwater die Webseite zum Film.
+
+- Erstellt mit Typo3 und Foundation 5
+- Infos zum Film
+- Bonusmaterial zum Film
+- Downloadmöglichkeit des Films
+- Kontaktinfos zu Interesse an Gemeinschaft
+- Zweisprachigkeit
+
+----
+
+Video: (vm: 96092289)
+
+----
+
+Categories: Videoproduktion, Webdesign
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2014-08-03
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: Mark Fels
+
+----
+
+Clienturl: 
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: http://www.leben-in-gemeinschaft.ch
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 

@@ -1,0 +1,164 @@
+section.cta {
+  padding: 0;
+  position: relative;
+  min-height: 150px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  
+  .info-text {
+    position: absolute;
+    top: 50%;
+    @include transform(translateY(-50%));
+    padding-left: 10%;
+    padding-right: 40%;
+    p {
+      color: white;
+//      margin-top: 0;
+    }
+  }
+}
+
+section.social-footer {
+  position: relative;
+  
+  background: darken($primary-color,20%);
+  color: white;
+  .instagram {
+    margin-top: 20px;
+    .insta-item  {
+      position: relative;
+      overflow: hidden;
+      margin: 10px;
+      .insta-image {
+        @include transition(transform, 5s);
+      }
+      .insta-caption {
+        @include display(flex);
+        @include flex-direction(column);
+        @include align-items(center);
+        @include justify-content(center);
+        @include transition(opacity, .35s);
+        opacity: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        @include background-opacity($primary-color,.9);
+        text-align: center;
+        p {
+          padding-left: 20px;
+          padding-right: 20px;
+          font-size: 1em;
+          &.small {
+            margin-top: -5px;
+          }
+        }
+        a {
+          font-size: .6em;
+          border: 1px solid white;
+          @include flex-shrink(0);
+        }
+      }
+      .no-touch &:hover, &.hover {
+        .insta-image {
+          @include transform(scale(1.2));
+        }
+        .insta-caption {
+          opacity: 1;
+        }
+      }
+    }
+//    @include media($small) {
+//      .insta-item .insta-caption p {
+//        font-size: 1.2em;
+//      }
+//    }
+//    @include media($midlarge) {
+//      .insta-item .insta-caption p {
+//        font-size: 1.3em;
+//      }
+//    }
+  }
+  .twitter {
+    margin-top: 100px;
+    ul {
+      margin: 0;
+      padding: 0;
+      @include outer-container(100%);
+      li {
+        @include span-columns(12);
+        list-style: none;
+        margin-bottom: 20px;
+        font-size: .8em;
+        .tweet {
+          position: relative;
+          background-color: white;
+          padding: 10px;
+          color: $primary-text;
+          text-align: center;
+          .date {
+            margin: 5px 0;
+            font-size: .8em;
+            text-transform: uppercase;
+          }
+          > .tweet-link {
+            display: inline-block;
+            width: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+          }
+          &:after {
+            content: "";
+            position: absolute;
+            width: 0;
+            height: 0;
+            border-width: 10px;
+            border-style: solid;
+            border-color: white transparent transparent transparent;
+            bottom: -20px;
+            left: 20%;
+            margin-left: -10px;
+
+          }
+        }
+        .tweet-url {
+          display: inline-block;
+          font-size: 1.8em;
+          margin-top: 10px;
+          margin-left: -15px;
+          color: white;
+          padding-left: 20%;
+          &:hover {
+            color: $divider-color;
+          }
+        }
+      }
+      @include media($medium) {
+        li {
+          @include span-columns(3);
+        }
+      }
+    }
+  }
+}
+
+footer.copyright {
+  background: $primary-color;
+  p {
+    text-align: center;
+    color:white;
+    margin: 0;
+    padding: 10px;
+    font-size: .5em;
+    
+    a {
+      color: darken(white,10%);
+      &:hover {
+        color:darken(white,20%);
+      }
+    }
+  }
+}

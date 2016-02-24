@@ -1,0 +1,61 @@
+Title: PRAGMA Innovations GmbH
+
+----
+
+Text: 
+
+Webseite der Firma PRAGMA Innovations GmbH
+
+**Technische Einzelheiten**
+- Typo3 4.5
+- Kontaktformular
+- Fancybox
+- Youtube und Twitter-Integration
+
+----
+
+Video: 
+
+----
+
+Categories: Webdesign, Webprograming
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2012-02-01
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: PRAGMA Innovations GmbH
+
+----
+
+Clienturl: 
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: http://www.pragmainnovations.ch
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 
+
+----
+
+Top: 0
