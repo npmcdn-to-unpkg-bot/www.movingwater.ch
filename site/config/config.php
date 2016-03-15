@@ -15,7 +15,7 @@ for more information: http://getkirby.com/license
 
 */
 
-@include license.php;
+@include 'license.php';
 
 /*
 
@@ -30,3 +30,14 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 */
 c::set('locale','de_DE.UTF8');
 c::set('date.handler', 'strftime');
+
+//Caching
+c::set('cache', true);
+//
+c::set('cache.ignore', array(
+  'error'
+));
+
+// Sitemap
+c::set('sitemap.exclude', array('error'));
+c::set('sitemap.important', array('arbeiten', 'ueber', 'kontakt', 'ueber/angebote'));

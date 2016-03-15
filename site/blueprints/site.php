@@ -21,3 +21,10 @@ fields:
   footertext:
     type: textarea
     label: Fusszeilentext
+  line:
+      label: Einstellungen
+      type: line
+  googleanalytics:
+      label: Google Analytics - Tracking ID
+      type: text
+      help: UA-XXXXXXXX-X
