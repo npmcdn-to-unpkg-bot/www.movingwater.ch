@@ -1,4 +1,5 @@
 /site/config/license.php
+/site/cache
 /thumbs
 /.codekit-cache
 .DS_Store

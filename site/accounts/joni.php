@@ -3,12 +3,14 @@
 username: joni
 email: info@movingwater.ch
 password: >
-  $2a$10$Z2m0ZZ03xrrHB1Zq4bu6w.RKprf537klnFR0/seGjIRNKBQKH3PQq
+  $2a$10$luSSZRmoVgPqtiBIKBlNE.H7YYqZT62SXwwu3ZNet.QB2wz9T3rvC
 language: de
 role: admin
 history:
+  - redirecty
   - arbeiten
   - arbeiten/hochzeitsvideo-debo-claudio
   - arbeiten/vineyard-herisau
   - error
-  - kontakt
+firstname: Jonathan
+lastname: Hess
