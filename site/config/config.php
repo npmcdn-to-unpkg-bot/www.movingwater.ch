@@ -41,3 +41,25 @@ c::set('cache.ignore', array(
 // Sitemap
 c::set('sitemap.exclude', array('error'));
 c::set('sitemap.important', array('arbeiten', 'ueber', 'kontakt', 'ueber/angebote'));
+
+// Routes
+c::set('routes', array(
+  array(
+    'pattern' => 'angebot/hochzeitsfilm.html',
+    'action' => function () {
+      header::redirect('http://www.movingwater.ch/ueber/angebote/hochzeitsfilm/', 301);
+    }
+  ),
+  array(
+    'pattern' => 'ueber.html',
+    'action' => function () {
+      header::redirect('http://www.movingwater.ch/ueber/', 301);
+    }
+  ),
+  array(
+    'pattern' => 'arbeiten.html',
+    'action' => function () {
+      header::redirect('http://www.movingwater.ch/arbeiten/', 301);
+    }
+  ),
+));
