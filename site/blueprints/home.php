@@ -7,12 +7,12 @@ fields:
     label: Title
     type:  text
   line1:
-    type: line        
+    type: line
   headertext:
     label: Text Header
     type: textarea
   line2:
-    type: line      
+    type: line
   text:
     label: Text
     type:  textarea
@@ -24,7 +24,7 @@ fields:
     label: Titel (Parnter)
   partnertext:
     type: textarea
-    label: Text  
+    label: Text
   partners:
     label: Partner
     type: structure
@@ -39,7 +39,10 @@ fields:
       links:
         label: Links
         type: textarea
-      image: 
+      image:
         label: Bild
         type: select
         options: images
+  revisions:
+    label: Revisions
+    type: revisions

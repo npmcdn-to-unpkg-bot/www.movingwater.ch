@@ -16,7 +16,7 @@ fields:
   top:
     label: Top Projekt
     type: checkbox
-    width: 1/5  
+    width: 1/5
   text:
     label: Text
     type:  textarea
@@ -81,4 +81,6 @@ fields:
         label: Verwandte Projekte
         type: select
         options: siblings
-    
+  revisions:
+    label: Revisions
+    type: revisions  

@@ -11,3 +11,6 @@ fields:
   text:
     label: Text
     type:  textarea
+  revisions:
+    label: Revisions
+    type: revisions

@@ -28,3 +28,6 @@ fields:
       label: Google Analytics - Tracking ID
       type: text
       help: UA-XXXXXXXX-X
+  revisions:
+    label: Revisions
+    type: revisions

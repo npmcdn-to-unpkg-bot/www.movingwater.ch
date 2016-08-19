@@ -13,3 +13,6 @@ fields:
   hidecta:
     label: Kontakt-Banner verstecken
     type: checkbox
+  revisions:
+    label: Revisions
+    type: revisions
