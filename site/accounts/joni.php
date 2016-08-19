@@ -7,7 +7,6 @@ password: >
 language: de
 role: admin
 history:
-  - redirecty
   - arbeiten
   - arbeiten/hochzeitsvideo-debo-claudio
   - arbeiten/vineyard-herisau
