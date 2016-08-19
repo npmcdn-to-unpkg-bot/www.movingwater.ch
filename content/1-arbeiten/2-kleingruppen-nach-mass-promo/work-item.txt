@@ -1,0 +1,56 @@
+Title: Kleingruppen nach Mass - Promo
+
+----
+
+Top: 0
+
+----
+
+Text: Promo für eine Kleingruppe nach Mass Staffel der Vineyard Bern.
+
+----
+
+Videoembed: (vm: 153771226)
+
+----
+
+Categories: Videoproduktion
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2016-03-15
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: Vineyard Bern
+
+----
+
+Clienturl: http://www.vineyard-bern.ch
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website:
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related:
+
+-
+  relatedpages: promo-kgnm

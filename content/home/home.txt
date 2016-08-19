@@ -23,14 +23,13 @@ Headerbuttons:
 Partners: 
 
 - 
-  name: "l'arbre"
+  name: Phil Arber
   email: p.arber@larbre.cc
   web: http://www.larbre.cc
-  image: larbre.png
+  image: phil-arber.jpg
   links: |
-    **Philippe Arber**
     Filmproduktion, Webdesign
-    (email: p.arber@larbre.cc text:<i class="mdi mdi-email"></i>) (link: http://www.larbre.cc text: <i class="mdi mdi-earth"></i> popup: yes) (link: https://www.facebook.com/larbre.cc text: <i class="mdi mdi-facebook-box"></i> popup: yes)
+    (email: p.arber@larbre.cc text:<i class="mdi mdi-email"></i>) (link: http://www.philarber.ch text: <i class="mdi mdi-earth"></i> popup: yes) (link: https://www.facebook.com/philarber.ch/ text: <i class="mdi mdi-facebook-box"></i> popup: yes)
 - 
   name: Beck Records
   links: |

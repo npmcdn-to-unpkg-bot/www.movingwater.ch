@@ -1,0 +1,62 @@
+Title: Nachhaltigkeit
+
+----
+
+Text: 
+
+Konzept und Produktion: Jonathan Hess
+Schauspiel: Irina
+Frauenstimme: Sarah-Maria Graber ((link: http://www.diewortfabrik.ch text: www.diewortfabrik.ch popup: yes))
+Männerstimme: David Zürcher ((link: http://www.davidzuercher.ch text: www.davidzuercher.ch popup: yes))
+
+----
+
+Videoembed: (vm: 88258640)
+
+----
+
+Categories: Videoproduktion
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2014-03-17
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: Vineyard Bern
+
+----
+
+Clienturl: http://www.vineyard-bern.ch
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: 
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 
+
+- 
+  relatedentry: work/intro-schauspiel
+  relatedpages: intro-schauspiel
+
+----
+
+Top: 0

@@ -1,0 +1,61 @@
+Title: Das Gestalterei - Crowdfunding
+
+----
+
+Top: 0
+
+----
+
+Text: 
+
+Crowdfunding Video des GestalterEi um einen Zirkuswagen umbauen zu können. 
+Ziel war es, einen Zirkuswagen in ein Beizli mit Take-away um zu bauen und damit Arbeitsplätze im Bereich Gastronomie zu schaffen.
+
+----
+
+Videoembed: 
+
+----
+
+Categories: Videoproduktion
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2015-10-04
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: Das Gestalterei
+
+----
+
+Clienturl: http://dasgestalterei.be/
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: 
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 
+
+- 
+  relatedpages: effinger-crowdfunding
+- 
+  relatedpages: shiftphone-crowdfunding

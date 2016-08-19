@@ -1,0 +1,58 @@
+Title: Christ in You Movie - Webseite
+
+----
+
+Top: 0
+
+----
+
+Text: 
+
+Programmierung der Webseite für das Filmprojekt «Christ in You».
+
+Framework: (link: http://www.bourbon.io popup: yes)
+CMS: (link: http://www.getkirby.com text: Kirby CMS popup: yes)
+
+----
+
+Videoembed: 
+
+----
+
+Categories: Webprograming
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2015-09-08
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: Siloam Productions
+
+----
+
+Clienturl: http://www.siloam.ch
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: http://www.christinyoumovie.com
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 

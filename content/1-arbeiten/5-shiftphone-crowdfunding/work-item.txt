@@ -1,0 +1,58 @@
+Title: Shiftphone - Crowdfunding
+
+----
+
+Top: 0
+
+----
+
+Text: Crowdfundingvideo für das faire und nachhaltige Shiftphone. Ziel war es, der Vertrieb des Shiftphones  in der Schweiz bekannt zu machen.
+
+----
+
+Videoembed: (vm: 166044850)
+
+----
+
+Categories: Videoproduktion
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2015-10-06
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: Alder Treuhandel
+
+----
+
+Clienturl:
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: http://www.shiftphones.com
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related:
+
+-
+  relatedpages: effinger-crowdfunding
+-
+  relatedpages: das-gestalterei-crowdfunding

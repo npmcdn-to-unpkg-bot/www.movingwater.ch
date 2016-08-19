@@ -1,0 +1,58 @@
+Title: Privatunterkünfte
+
+----
+
+Text: Werbeclip für Privatunterkünfte während der Pfingstkonfernez 2013 in Bern.
+
+----
+
+Videoembed: (vm: 62059295)
+
+----
+
+Categories: 
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2013-04-14
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: Vineyard Bern
+
+----
+
+Clienturl: http://www.vineyard-bern.ch
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: 
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 
+
+- 
+  relatedpages: statement-pfingstkonferenz-2013
+- 
+  relatedpages: countdown-pfingstkonferenz-2013
+
+----
+
+Top: 0

@@ -1,0 +1,63 @@
+Title: Scheidegger Architekten
+
+----
+
+Text: 
+
+Eine Zusammenarbeit mit(link: http://www.rubenung.ch text:  Ruben Ung popup: yes) (Webdesign).
+
+**Vorgaben**
+- Zufallsbild auf der Startseite (fensterfüllend)
+- Werkeverzeichnis (Kacheln) mit hover-Titel
+- Werkeverzeichnis Detailansicht: Bildwechsel durch Punktnavigation oder Klick auf Bild.
+- Responsive Design
+ - bis 640px: Mobile Ansicht
+ - 641px - 1440px Desktopansicht (4 spaltig)
+ - ab 1441px Deskopansicht (6 spaltig)
+- Einspaltiger und zweispaltiger Text
+ 
+Umgesetzt mit Typo3 6.2 und Foundation 5.
+
+----
+
+Videoembed: 
+
+----
+
+Categories: Webdesign
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2014-07-07
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: Scheidegger Architekten GmbH
+
+----
+
+Clienturl: 
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: http://www.scheidegger-architekten.ch/
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 

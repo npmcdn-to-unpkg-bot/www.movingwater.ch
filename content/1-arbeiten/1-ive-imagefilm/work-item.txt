@@ -1,0 +1,53 @@
+Title: IVE - Imagefilm
+
+----
+
+Top: 0
+
+----
+
+Text: IVE prägt die nächste Generation von Führungspersönlichkeiten, um die Zukunft durch Werte-basiertes Unternehmertum zu gestalten.
+
+----
+
+Videoembed: (yt: oZmkDdUSydg)
+
+----
+
+Categories: Videoproduktion, MotionDesign
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2016-05-19
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: IVE - Institute for valuebased entrepreneurship
+
+----
+
+Clienturl: http://www.iveinstitute.org
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website:
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related:

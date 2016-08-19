@@ -1,8 +1,4 @@
-Title: Israelwerke
-
-----
-
-Top: 
+Title: Intro Leiterkonferenz 2013
 
 ----
 
@@ -22,7 +18,7 @@ Datelabel: Fertigstellung
 
 ----
 
-Date: today
+Date: 2013-01-30
 
 ----
 
@@ -51,3 +47,7 @@ Relatedlabel: Verwandte Arbeiten
 ----
 
 Related: 
+
+----
+
+Top: 0

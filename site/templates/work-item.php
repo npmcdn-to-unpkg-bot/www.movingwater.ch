@@ -1,15 +1,15 @@
-<?php snippet('header') ?> 
+<?php snippet('header') ?>
 <header class="header-single">
-  <?php if(!$page->video()->empty()): ?>
+  <?php if(!$page->videoembed()->empty()): ?>
   <div class="video-wrapper">
-      <?php echo $page->video()->kirbytext() ?>
+      <?php echo $page->videoembed()->kirbytext() ?>
   </div>
   <?php else: ?>
   <div class="image-wrapper">
     <?php if($image = $page->images()->sortBy('sort', 'asc')->first()): ?>
     <img src="<?php echo thumb($image, array('width' => 1280, 'height' => 720, 'crop' => true))->url(); ?>" alt="" >
     <?php endif ?>
-  </div>  
+  </div>
   <?php endif ?>
 </header>
 <section class="work-single">
@@ -30,14 +30,14 @@
     </div>
   </div>
   <div class="image">
-    <?php if($page->images()->count() <= 1 and $page->video()->empty()): ?>
+    <?php if($page->images()->count() <= 1 and $page->videoembed()->empty()): ?>
 
     <?php else: ?>
       <div class="lightboxset">
       <?php foreach($page->images()->sortBy('sort', 'asc') as $image): ?>
         <a class="lightbox" data-caption="<?php echo $image->caption()->html() ?>" href="<?php echo $image->url() ?>" title="<?php echo $image->caption()->html() ?>" target="_blank">
           <img src="<?php echo thumb($image, array('width' => 300, 'height' => 300, 'crop' => true, 'grayscale' => true))->url() ?>" alt="<?php echo $image->caption()->html() ?>">
-        </a>  
+        </a>
       <?php endforeach ?>
       </div>
     <?php endif; ?>
@@ -57,4 +57,4 @@
 </section>
 <?php endif ?>
 
-<?php snippet('footer') ?> 
+<?php snippet('footer') ?>

@@ -1,0 +1,61 @@
+Title: äuä.be
+
+----
+
+Text: 
+
+Einfache Webseite um die Events von äuä - Ein Gottesdienst für Junge Erwachsene zu publizieren.
+
+**Eigenschaften:**
+- Umgesetzt mit Typo3 und Twitter Bootstrap
+- Eventmodul
+- Download als ics-Datei um Event in eigenen Kalender zu speichern
+- Abonnieren eines ical-Feeds um alle Events im eigenen Kalender zu haben.
+- Download eines Events als PDF in Din-A4
+- Newsletterverwaltung ((link: www.mailchimp.com text: www.mailchimp.com))
+- Darstellen von Vision und Teaminfos
+- Mobile optimiert
+
+----
+
+Videoembed: 
+
+----
+
+Categories: Webdesign, Webprograming
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2015-01-22
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: Ref. Kirche Herzogenbuchsee
+
+----
+
+Clienturl: 
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: http://www.äuä.be
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 

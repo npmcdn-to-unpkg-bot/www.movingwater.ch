@@ -1,20 +1,20 @@
-Title: Israelwerke
-
-----
-
-Top: 
+Title: Opener OSS Awards 2014
 
 ----
 
 Text: 
 
+**Eigenschaften**
+- Erstellt mit Apple Motion 5
+- Musik: audiojungle
+
 ----
 
-Videoembed: 
+Videoembed: (vm: 123286952)
 
 ----
 
-Categories: 
+Categories: MotionDesign
 
 ----
 
@@ -22,7 +22,7 @@ Datelabel: Fertigstellung
 
 ----
 
-Date: today
+Date: 2014-11-23
 
 ----
 
@@ -30,7 +30,7 @@ Clientlabel: Kunde
 
 ----
 
-Client: 
+Client: Matthias Stürmer
 
 ----
 

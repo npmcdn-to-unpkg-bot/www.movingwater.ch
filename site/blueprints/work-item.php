@@ -20,7 +20,7 @@ fields:
   text:
     label: Text
     type:  textarea
-  video:
+  videoembed:
     label: Video
     type: text
     help: Vimeo&colon; (vm&colon; ID) / Youtube&colon; (yt&colon; ID)
@@ -83,4 +83,4 @@ fields:
         options: siblings
   revisions:
     label: Revisions
-    type: revisions  
+    type: revisions

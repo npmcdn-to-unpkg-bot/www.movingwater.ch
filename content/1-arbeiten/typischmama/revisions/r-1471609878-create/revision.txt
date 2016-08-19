@@ -1,4 +1,4 @@
-Title: Israelwerke
+Title: Y-m-d, H:i:s
 
 ----
 
@@ -51,3 +51,19 @@ Relatedlabel: Verwandte Arbeiten
 ----
 
 Related: 
+
+----
+
+Revisions: 
+
+----
+
+Revision-title: TypischMama
+
+----
+
+Revision-action: create
+
+----
+
+Revision-template: work-item

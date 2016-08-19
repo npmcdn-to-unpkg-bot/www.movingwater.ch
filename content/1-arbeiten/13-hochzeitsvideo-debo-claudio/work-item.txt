@@ -1,8 +1,8 @@
-Title: Israelwerke
+Title: Hochzeitsvideo Debo & Claudio
 
 ----
 
-Top: 
+Top: 0
 
 ----
 
@@ -10,11 +10,11 @@ Text:
 
 ----
 
-Videoembed: 
+Videoembed: (vm: 129193834)
 
 ----
 
-Categories: 
+Categories: Hochzeitsvideo
 
 ----
 
@@ -22,7 +22,7 @@ Datelabel: Fertigstellung
 
 ----
 
-Date: today
+Date: 2015-05-29
 
 ----
 

@@ -1,0 +1,60 @@
+Title: Aktion Verzicht
+
+----
+
+Text: 
+
+**Eigenschaften**
+- Onepage-Webseite
+- Rollover-Funktion für mehr Infos
+- Ajax-Funktionalität für Formulare
+- Modal-Lightbox für Detailansicht der Projekte
+- Ausklappbare Zusatzinfos für die Sammelstellen
+- PDF-Download der Rundbriefe
+- Responsive Gestaltung
+ 
+Umgesetzt mit Typo3 6.2 und Twitter Bootstrap 3.
+
+----
+
+Videoembed: 
+
+----
+
+Categories: Webdesign
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2014-06-23
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: Aktion Verzicht
+
+----
+
+Clienturl: 
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: http://www.aktion-verzicht.ch/
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 

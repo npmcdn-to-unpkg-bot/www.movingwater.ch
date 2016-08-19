@@ -1,0 +1,56 @@
+Title: Love in Action - Promo
+
+----
+
+Top: 0
+
+----
+
+Text: Promoclip für die Love in Action Woche in Zürich.
+
+----
+
+Videoembed: (vm: 155034596)
+
+----
+
+Categories: Videoproduktion
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2015-06-19
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: Love in Action
+
+----
+
+Clienturl: http://www.loveinaction.ch/
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: 
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 
+
+- 
+  relatedpages: love-in-action-rueckblick

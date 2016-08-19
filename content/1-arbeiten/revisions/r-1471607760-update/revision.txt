@@ -1,0 +1,17 @@
+Title: Y-m-d, H:i:s
+
+----
+
+Text: # Arbeiten
+
+----
+
+Revision-title: Arbeiten
+
+----
+
+Revision-action: update
+
+----
+
+Revision-template: work

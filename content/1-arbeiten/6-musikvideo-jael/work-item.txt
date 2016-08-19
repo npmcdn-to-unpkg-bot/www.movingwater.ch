@@ -1,0 +1,58 @@
+Title: Musikvideo - Jaël
+
+----
+
+Top: 0
+
+----
+
+Text: moving water unterstützte l'arbre beim Dreh des Musikvideos für (link: http://www.jaelmusic.ch text: Jaël popup: yes)
+
+----
+
+Videoembed: (yt: 7E1gMb8G8-Y)
+
+----
+
+Categories: Videoproduktion
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2015-10-05
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: l'arbre
+
+----
+
+Clienturl: http://www.larbre.cc
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website:
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related:
+
+-
+  relatedpages: musikvideo-hecht
+-
+  relatedpages: videodreh-mit-francine-jordi

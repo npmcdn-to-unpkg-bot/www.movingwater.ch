@@ -26,8 +26,4 @@ Interessiert?
 
 ----
 
-Footerbutton: Kontakt
-
-----
-
-Footerbuttonlink: kontakt
+Googleanalytics: UA-41798138-1

@@ -7,10 +7,10 @@ password: >
 language: de
 role: admin
 history:
+  - arbeiten/typisch-mama
   - ueber
   - arbeiten
   - arbeiten/hochzeitsvideo-debo-claudio
   - arbeiten/vineyard-herisau
-  - error
 firstname: Jonathan
 lastname: Hess

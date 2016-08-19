@@ -1,0 +1,69 @@
+Title: Y-m-d, H:i:s
+
+----
+
+Top: 0
+
+----
+
+Text: Intro, Titeldesign und kleine Webpräsenz für den VideoBlog TypischMama.
+
+----
+
+Videoembed: (yt: prQe3m4QyVo)
+
+----
+
+Categories: MotionDesign, Webdesign
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2016-06-19
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: Sarah-Maria Graber
+
+----
+
+Clienturl: 
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: 
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 
+
+----
+
+Revisions: 
+
+----
+
+Revision-title: TypischMama
+
+----
+
+Revision-action: update
+
+----
+
+Revision-template: work-item

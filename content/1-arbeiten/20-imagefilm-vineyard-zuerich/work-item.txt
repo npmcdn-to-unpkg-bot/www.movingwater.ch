@@ -1,0 +1,65 @@
+Title: Imagefilm Vineyard Zürich
+
+----
+
+Text: 
+
+Welcome Clip für die Vineyard Zürich.
+
+**Eigenschaften**
+- Kamera & Schnitt: movingwater
+- Musik: audiojugle
+- Cast: Leute der Vineyard Zürich
+- MotionDesign
+
+----
+
+Videoembed: (vm: 107918730)
+
+----
+
+Categories: Videoproduktion, MotionDesign
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2014-09-13
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: VIneyard Zürich
+
+----
+
+Clienturl: http://www.vineyard-zuerich.ch
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: 
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 
+
+- 
+  relatedentry: work/logo_vineyard_zuerich
+  relatedpages: logo_vineyard_zuerich
+
+----
+
+Top: 1

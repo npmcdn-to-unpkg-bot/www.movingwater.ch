@@ -1,0 +1,63 @@
+Title: Godstories
+
+----
+
+Text: 
+
+Godstories augenommen an der Herbstkonferenz 2012 der Vineyard Bern im Kursaal, Bern.	
+
+**Weitere Godstories:**
+(link: https://vimeo.com/album/1949014 text: Pfingstkonferenz 2012 popup: yes)
+(link: https://vimeo.com/album/2129857 text: Herbstkonferenz 2012 popup: yes)
+(link: https://vimeo.com/album/2376736 text: Pfingstkonferenz 2013 popup: yes)
+
+----
+
+Videoembed: (vm: 52447210)
+
+----
+
+Categories: Videoproduktion
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2012-10-19
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: Vineyard Bern
+
+----
+
+Clienturl: http://www.vineyard-bern.ch
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: 
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 
+
+- 
+  relatedpages: intro-godstory
+
+----
+
+Top: 0

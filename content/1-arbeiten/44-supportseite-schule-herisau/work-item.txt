@@ -1,0 +1,68 @@
+Title: Supportseite Schule Herisau
+
+----
+
+Text: 
+
+Neu aufgleisen und optimieren der Supportseite der Schule Herisau. Das Design wurde vorgeben als Photoshop-File. Dies musste als Webseite übersetzt werden.
+
+**Technische Einzelheiten**
+- Erstellt mit Typo3 4.5
+- News-Erweiterung für Supporteinträge
+- Hintergrund passt sich an Fenstergrösse an
+ 
+
+**Technische Vorgaben**
+- Permanentes Login (User muss sich nicht jedes mal neu einloggen)
+- Ohne Login soll der User nur die Titel lesen können. Sobald er eingeloggt ist, sieht er den Leadtext und kann die Detail-Seite öffnen.
+- Wenn der User sich eingeloggt hat, soll an der Stelle wo das Login-Feld stand, das Such-Feld stehen.
+- Das Status-Symbol soll verlinkt werden können. z.B. auf einen Detail-Eintrag.
+- Wenn per Email ein Detail-Link verschickt wird und der User draufklickt, erscheint das Login (wenn nicht angemeldet). Nach Login direktes weiterleiten  auf den entsprechenden Detail-Eintrag.
+
+----
+
+Videoembed: 
+
+----
+
+Categories: Webprograming
+
+----
+
+Datelabel: Fertigstellung
+
+----
+
+Date: 2012-08-14
+
+----
+
+Clientlabel: Kunde
+
+----
+
+Client: Gemeinde Herisau
+
+----
+
+Clienturl: 
+
+----
+
+Websitelabel: Webseite
+
+----
+
+Website: 
+
+----
+
+Relatedlabel: Verwandte Arbeiten
+
+----
+
+Related: 
+
+----
+
+Top: 0
